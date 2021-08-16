@@ -1,6 +1,6 @@
 {
-  "name": "DEFI OPSWAP.io”,
-  "logoURI": "https://raw.githubusercontent.com/opswap123/website/b2a951c635a4761903b881eb84121c0bc59b1636/logo.png",
+  "name": "OPSWAP”,
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg",
   "keywords": [
       "defi",
       "opp",
@@ -14,11 +14,11 @@
       "name": "test",
       "symbol": "test",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/opswap123/website/b2a951c635a4761903b881eb84121c0bc59b1636/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
       }
     ],
     "version": {
-      "major": 0,
+      "major": 1,
       "minor": 0,
       "patch": 0
     }
