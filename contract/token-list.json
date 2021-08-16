@@ -1,0 +1,25 @@
+{
+  "name": "DEFI OPSWAP.io”,
+  "logoURI": "https://raw.githubusercontent.com/opswap123/website/b2a951c635a4761903b881eb84121c0bc59b1636/logo.png",
+  "keywords": [
+      "defi",
+      "opp",
+      "opswap"
+    ],
+    "timestamp": "2021-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 4,
+      "address": "0xFfbD22F33AB8cEC3dfc0d97499cE9d6693AA134D",
+      "name": "test",
+      "symbol": "test",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/opswap123/website/b2a951c635a4761903b881eb84121c0bc59b1636/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
